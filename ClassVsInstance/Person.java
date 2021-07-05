@@ -1,4 +1,4 @@
-package Day4ClassVsInstance;
+package ClassVsInstance;
 import java.io.*;
 import java.security.spec.ECPublicKeySpec;
 import java.util.*;
