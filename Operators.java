@@ -33,7 +33,7 @@ class Result {
 
 }
 
-public class Day2Operators {
+public class Operators {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
