@@ -12,7 +12,7 @@ import java.util.stream.*;
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
-class Result {
+class Recurse {
 
     /*
      * Complete the 'factorial' function below.
@@ -41,7 +41,7 @@ public class Recursion {
 
         int n = Integer.parseInt(bufferedReader.readLine().trim());
 
-        int result = Result.factorial(n);
+        int result = 0;
 
         bufferedWriter.write(String.valueOf(result));
         bufferedWriter.newLine();
